@@ -1,0 +1,4 @@
+homepage: "https://tagsepixel.com.br"
+versions:
+  - sha: 5243dd55db8439b029336e97d6421f64d2f04ce7
+    changeNotes: Initial release.
